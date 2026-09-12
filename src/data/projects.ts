@@ -190,7 +190,7 @@ export const projects: Project[] = [
     technology: ["B2B Web Design", "Responsive Design", "Corporate Presentation", "UX"],
     tags: ["B2B Web Design", "Responsive Design", "Corporate Presentation"],
     links: [
-      { label: "Website", url: "https://www.dasengineeringworks.com/", external: true },
+      { label: "Website", url: "https://dasengineeringworks.co.in/", external: true },
     ],
   },
   {
